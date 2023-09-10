@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="tvVersionAndroidLB">1. Version Android:</string>
+    <string name="tvVersionAndroid"></string>
+    <string name="tvLigth">2. Flashlight :</string>
+    <string name="btnOn">On</string>
+    <string name="btn0ff">Off</string>
+    <string name="tvLevelBaterry">3. Level of Baterry</string>
+    <string name="tvLevelBaterry_2"></string>
+    <string name="tvStorage">4. Storage</string>
+    <string name="etFileName">Nombre de archivo</string>
+    <string name="btnAddFile">Agregar</string>
+    <string name="tvState">5. Conection:</string>
+    <string name="tvTitle">My Resources Devices</string>
+    <string name="tvBluetooth">6. Bluetooth</string>
+</resources>
